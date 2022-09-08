@@ -1,19 +1,16 @@
-body{
-    background-color: antiquewhite;
-}
-
 h1{
     font-size:50px;
     margin-left: 40px;
 }
 
 h1, h3{
+    margin-top: 50px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color:rgb(117, 77, 42)
 }
 
 a{
-    background: #00000075;
+    background: #0000004d;
     color:blanchedalmond;
     text-decoration-color:blanchedalmond;
     display: inline;
@@ -29,9 +26,9 @@ a:hover{
 }
 
 label{
-    display: block-inline;
+    display:block-inline;
     font-variant: small-caps;
-    background: #00000075;
+    background: #0000004d;
     color: blanchedalmond;
 }
 
@@ -65,7 +62,7 @@ img{
 p{
     font-variant: small-caps;
     display: inline-block;
-    background: #00000075;
+    background: #0000004d;
     color:blanchedalmond;
     margin-right: 50%
 }
