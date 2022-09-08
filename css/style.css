@@ -12,19 +12,6 @@ h1, h3{
     color:rgb(117, 77, 42)
 }
 
-p{
-    font-variant: small-caps;
-    display: inline-flex;
-    background: #00000075;
-    color:blanchedalmond;
-    margin-right: 50%
-    
-}
-
-.bild{
-    width: 250px
-}
-
 a{
     background: #00000075;
     color:blanchedalmond;
@@ -36,7 +23,8 @@ a:hover{
     background-color: rgb(0, 0, 0);
 }
 
-.hundra-px-padding-topp{
+.padding-top{
+
     padding-top: 100px;
 }
 
@@ -58,11 +46,26 @@ label{
 }
 
 body{
-    background-image: url("bakgrundsbild2.jpg");
+    background-image: url("../images/bakgrundsbild2.jpg");
     background-size:auto;
 }
 
 q{
     display: inline;
     color:blanchedalmond
+}
+
+
+img{
+    float:left;
+    border: inline;
+    width:250px;
+}
+
+p{
+    font-variant: small-caps;
+    display: inline-block;
+    background: #00000075;
+    color:blanchedalmond;
+    margin-right: 50%
 }
