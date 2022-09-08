@@ -1,0 +1,68 @@
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    font-size:50px;
+    margin-left: 40px;
+}
+
+h1, h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(117, 77, 42)
+}
+
+p{
+    font-variant: small-caps;
+    display: inline-flex;
+    background: #00000075;
+    color:blanchedalmond;
+    margin-right: 50%
+    
+}
+
+.bild{
+    width: 250px
+}
+
+a{
+    background: #00000075;
+    color:blanchedalmond;
+    text-decoration-color:blanchedalmond;
+    display: inline;
+}
+
+a:hover{
+    background-color: rgb(0, 0, 0);
+}
+
+.hundra-px-padding-topp{
+    padding-top: 100px;
+}
+
+label{
+    display: block-inline;
+    font-variant: small-caps;
+    background: #00000075;
+    color: blanchedalmond;
+}
+
+.knapp {
+    margin-left: 20px;
+    margin-right: 20px;
+    border: solid;
+    background-color:#cd9a5895;
+    padding: 10px;
+    border-radius: 5px;
+    display: inline;
+}
+
+body{
+    background-image: url("bakgrundsbild2.jpg");
+    background-size:auto;
+}
+
+q{
+    display: inline;
+    color:blanchedalmond
+}
